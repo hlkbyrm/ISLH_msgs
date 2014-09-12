@@ -53,11 +53,7 @@ add_message_files(
   messageDecoder/cmd2RobotsMessage.msg
   messageDecoder/cmdFromCoordinatorMessage.msg
   messageDecoder/cmdFromLeaderMessage.msg
-  navigation/helpMessage.msg
-  navigation/hotspot.msg
   communicationManager/inMessage.msg
-  navigation/neighborInfo.msg
-  navigation/networkInfo.msg
   messageDecoder/newLeaderMessage.msg
   taskObserver/newTaskInfoMessage.msg
   communicationManager/outMessage.msg
