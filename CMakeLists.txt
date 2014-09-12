@@ -63,6 +63,7 @@ add_message_files(
   communicationManager/outMessage.msg
   navigation/robotInfo.msg
   navigation/robotPose.msg
+  localization/robotPositions.msg
   messageDecoder/targetPoseListMessage.msg
   coalitionLeader/taskInfo2CoordinatorMessage.msg
   taskHandler/taskInfo2LeaderMessage.msg
