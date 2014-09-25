@@ -49,6 +49,7 @@ add_message_files(
   DIRECTORY msg 
   FILES
   taskCoordinator/cmd2LeadersMessage.msg
+  taskCoordinator/taskInfo2MonitorMessage.msg
   coalitionLeader/cmd2RobotsFromLeaderMessage.msg
   messageDecoder/cmd2RobotsMessage.msg
   messageDecoder/cmdFromCoordinatorMessage.msg
