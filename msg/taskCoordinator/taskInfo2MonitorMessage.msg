@@ -20,3 +20,4 @@ uint16 timeOutDuration # "the timed-out duration for the task"
 
 uint16 status # "status of the task"
 
+uint64 taskSiteRadius
