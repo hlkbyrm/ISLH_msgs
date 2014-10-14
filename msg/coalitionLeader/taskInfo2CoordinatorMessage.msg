@@ -12,6 +12,8 @@ uint16 encounteringRobotID #robot id which encounters the task
 
 uint64 encounteringTime #The encountering time
 
+uint16 handlingDuration
+
 uint16 timeOutDuration
 
 uint64 startHandlingTime #the time when the task starts being handled
