@@ -4,7 +4,7 @@ string taskUUID # the task's UUID
 
 uint16 encounteringRobotID #robot id which encounters the task
 
-uint16 responsibleUnit # "who is responsible for the task"
+int16 responsibleUnit # "who is responsible for the task"
 
 uint64 encounteringTime #The encountering time
 
